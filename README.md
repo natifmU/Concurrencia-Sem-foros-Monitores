@@ -14,5 +14,6 @@ Coches que vienen del norte y del sur pretenden cruzar un puente sobre un río. 
 
 
 Para ver los resultados, se debe ejecutar el main como aplicación Java. 
+
 <img width="533" alt="Captura de Pantalla 2023-12-15 a las 3 14 55 p  m" src="https://github.com/natifmU/Concurrencia-Sem-foros-Monitores/assets/150955864/59a982e7-ed6e-4895-95aa-68f431d86e29">
 
